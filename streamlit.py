@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
 
 # Load the trained model
-model = pickle.load(open('RandomForest.pkl', 'rb'))
+model = pickle.load(open('/Users/bibekrai/workspace/Crop Recommendation/RandomForest.pkl', 'rb'))
 
 def main():
     st.title('Crop Recommendation System')
