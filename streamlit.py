@@ -8,13 +8,13 @@ def main():
     st.title('Crop Recommendation System')
 
     # Input fields
-    nitrogen = st.text_input('Nitrogen',placeholder='Enter nitrogen value (int)')
-    phosphorus = st.text_input('Phosphorous',placeholder='Enter phosphorous value (int)')
-    potassium = st.text_input('Potassium',placeholder='Enter potassium value (int)')
-    temperature = st.text_input('Temperature',placeholder='Enter temperature value (float)')
-    humidity = st.text_input('Humidity',placeholder='Enter humidity value (float)')
-    ph = st.text_input('Ph Value',placeholder='Enter ph value (float)')
-    rainfall = st.text_input('Rainfall Value',placeholder='Enter rainfall value (float)')
+    nitrogen = st.text_input('Nitrogen',placeholder='Enter nitrogen value (0-140)')
+    phosphorus = st.text_input('Phosphorous',placeholder='Enter phosphorous value (5-145)')
+    potassium = st.text_input('Potassium',placeholder='Enter potassium value (5-205)')
+    temperature = st.text_input('Temperature',placeholder='Enter temperature value (8-43)')
+    humidity = st.text_input('Humidity',placeholder='Enter humidity value (14-99)')
+    ph = st.text_input('Ph Value',placeholder='Enter ph value (3-9)')
+    rainfall = st.text_input('Rainfall Value',placeholder='Enter rainfall value (20-298)')
 
     if st.button('Predict'):
         # Perform crop recommendation
