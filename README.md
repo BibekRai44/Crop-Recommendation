@@ -18,8 +18,7 @@ Using this model,I created app from [Streamlit](https://streamlit.io) where user
 
 # Project Showcase
 
-![crop](https://github.com/BibekRai44/Crop-Recommendation/assets/60976347/816c14a8-1a00-4f2d-adfb-79e54f915ef0)
-
+https://github.com/BibekRai44/Crop-Recommendation/assets/60976347/f0d342d7-fbaa-4559-8b6a-16e8cc17d08e
 
 ## I will integrate new features in this in upcoming days.
 
