@@ -18,7 +18,7 @@ Using this model,I created app from [Streamlit](https://streamlit.io) where user
 
 # Project Showcase
 
-![gif](/Users/bibekrai/Downloads/crop_AdobeExpress.gif)
+![gif](images/crop.gif)
 
 ## I will integrate new features in this in upcoming days.
 
