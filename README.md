@@ -18,7 +18,8 @@ Using this model,I created app from [Streamlit](https://streamlit.io) where user
 
 # Project Showcase
 
-<img src="images/crop.gif" width="250" height="250"/>
+![crop](https://github.com/BibekRai44/Crop-Recommendation/assets/60976347/816c14a8-1a00-4f2d-adfb-79e54f915ef0)
+
 
 ## I will integrate new features in this in upcoming days.
 
