@@ -18,7 +18,7 @@ Using this model,I created app from [Streamlit](https://streamlit.io) where user
 
 # Project Showcase
 
-![gif](images/crop.gif)
+<img src="images/crop.gif" width="250" height="250"/>
 
 ## I will integrate new features in this in upcoming days.
 
