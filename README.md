@@ -16,11 +16,9 @@ Using this model,I created app from [Streamlit](https://streamlit.io) where user
  3) Python libraries like matplotlib,seaborn for visualizing Data
  4) Python libraries like scikit-learn to perform ML operation
 
-# Project Image
+# Project Showcase
 
-![img1](images/sc1.png)
-
-![img2](images/sc2.png)
+![gif](/Users/bibekrai/Downloads/crop_AdobeExpress.gif)
 
 ## I will integrate new features in this in upcoming days.
 
